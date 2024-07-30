@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # apk.sh v1.0.10
 # author: ax - github.com/ax
